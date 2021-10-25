@@ -1,5 +1,1 @@
-master
-
-sub
-BBB
-end
+master_sub
